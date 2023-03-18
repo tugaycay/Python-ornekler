@@ -1,0 +1,10 @@
+birinci_kenar=int(input("Birinci kenarı giriniz"))
+ikinci_kenar=int(input("İkinci kenarı giriniz"))
+ucuncu_kenar=int(input("üçüncü kenarı giriniz"))
+if birinci_kenar==ikinci_kenar==ucuncu_kenar :
+    print("eşkenar üçgen")
+elif birinci_kenar==ikinci_kenar or ikinci_kenar==ucuncu_kenar or birinci_kenar==ucuncu_kenar:
+    print("İkizkenar üçgen")
+else:
+    birinci_kenar!=ikinci_kenar!=ucuncu_kenar
+    print("Çokkenar üçgen")
