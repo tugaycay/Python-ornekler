@@ -1,0 +1,2 @@
+a=sayi=int(input("sayi giriniz:"))
+print((a)*(a+1)//2)
