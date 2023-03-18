@@ -1,0 +1,3 @@
+a=santgrat=int(input(" santgrat giriniz:"))
+print("fahrenheit:",(santgrat/100*180)+32)
+print("kelvin:",(santgrat+273))
