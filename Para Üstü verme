@@ -1,0 +1,12 @@
+e=int(input("KURUŞ GİRİNİZ:"))
+t=e%100//50
+u=e%100%50//25
+g=e%100%50%25//10
+a=e%100%50%25%10//5
+y=e%100%50%25%10%5//1
+print(e//100,"adet 1 tl veriniz. ")
+print(t,"adet 50 kr veriniz.")
+print(u,"adet 25 kr veriniz.")
+print(g,"adet 10 kr veriniz.")
+print(a,"adet 5 kr veriniz.")
+print(y,"adet 1 kr veriniz.")
