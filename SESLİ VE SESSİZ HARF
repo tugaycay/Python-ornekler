@@ -1,0 +1,5 @@
+harf=input("harf giriniz:")
+if harf == "a" and "e" and "ı" and "i" and "o" and "ö" and "ü" and "u" :
+    print("BU BİR SESLİ HARF KARDEŞİM BENİM...")
+else:
+    print("BU BİR SESSİZ HARF KARDEŞİM BENİM...")
