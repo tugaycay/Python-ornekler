@@ -1,0 +1,12 @@
+
+a=int(input("a:")) #a değerini giriniz.
+
+b=int(input("b:"))  #b değerini giriniz.
+
+print("a*b",a*b)  #a ve b nin çarpımı
+
+print("a/b",a/b) #a nın b ye bölümü
+
+print("a%b",a%b) #a nın b ye bölümünden kalan
+
+print("a**b",a**b) #a üzeri b
