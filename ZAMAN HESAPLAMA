@@ -1,0 +1,5 @@
+a=gun=int(input("gun giriniz:"))
+b=saat=int(input("saat giriniz:"))
+c=dakika=int(input("dakika giriniz:"))
+d=saniye=int(input("saniye giriniz:"))
+print((a*24*60*60)+(b*60*60)+(c*60)+c)
